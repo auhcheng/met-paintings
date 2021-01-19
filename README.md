@@ -12,3 +12,5 @@ Data can also be downloaded using:
 ```
 
 `paintings` contains all open-access images marked as paintings on the Met website, while `oils` is a subset restricted to oil paintings.
+
+Paintings downloaded using csv from https://github.com/metmuseum/openaccess
